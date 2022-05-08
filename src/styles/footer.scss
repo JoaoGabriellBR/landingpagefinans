@@ -1,0 +1,27 @@
+.container-footer{
+    display: flex;
+    justify-content: center;
+}
+
+.sobrenoscolumn{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    color: #fff;
+}
+
+a:hover{
+    color: #999;
+    border-radius: 5px;
+}
+
+.columnpfooter{
+    color: #fff;
+}
+
+p{
+    margin-top: 85px;
+    margin-bottom: -50px;
+}

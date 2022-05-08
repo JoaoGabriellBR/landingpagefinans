@@ -1,0 +1,29 @@
+.section-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title-input{
+    margin-bottom: 35px;
+    font-family: sans-serif;
+}
+.input{
+    margin-bottom: 13px;
+    height: 45px;
+    border: 0.2px solid black;
+}
+
+.column-input{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.button-input{
+    height: 45px;
+    font-size: 18px;
+}
