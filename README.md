@@ -6,13 +6,15 @@ https://siteprojetofinans.netlify.app
 
 Finans se trata de uma aplicação front-end voltada para a geração de leads com o objetivo de realizar a venda de um produto que auxilia na gestão monetária.
 
+<br> 
 ## Layout Mobile
-![layoutmobile (2)](https://user-images.githubusercontent.com/88870257/168719119-6573eb4d-31c2-41ce-8cc9-51a42d618686.jpg)
 
-<img src="layoutmobile.jpeg" alt="layout mobile">
+
+<br> <br>
 
 ## Layout Web
-<img src="layoutweb.png" alt="layout web">
+![layoutweb (1)](https://user-images.githubusercontent.com/88870257/168722224-e1d80035-e2a4-4b69-ace2-be1dbb2d0078.png)
+
 
 
 ## Tecnologias utilizadas
