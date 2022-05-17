@@ -1,4 +1,4 @@
-# Finans | Finanças pessoais
+## ![logo](https://user-images.githubusercontent.com/88870257/168723091-825438e2-7361-4e7b-a68f-43023e84a491.png)
 
 ## Sobre o projeto
 
